@@ -1,12 +1,16 @@
-﻿  AsyncFileCopy.cpp
+﻿  stdafx.cpp
+  AsyncFileCopy.cpp
 c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(11): warning C4005: 'NUM_WORKERS': redefinição de macro
   c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(20): note: consulte a definição anterior de 'NUM_WORKERS'
 c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(13): warning C4005: 'BUFFER_SIZE': redefinição de macro
   c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(22): note: consulte a definição anterior de 'BUFFER_SIZE'
-c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(89): warning C4273: 'AsyncInit': vínculo de dll inconsistente
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(90): warning C4273: 'AsyncInit': vínculo de dll inconsistente
   c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(43): note: consulte a definição anterior de 'AsyncInit'
-c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(116): warning C4273: 'CopyFileAsynch': vínculo de dll inconsistente
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(117): warning C4273: 'CopyFileAsynch': vínculo de dll inconsistente
   c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(44): note: consulte a definição anterior de 'CopyFileAsynch'
-c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(163): warning C4273: 'AsyncTerminate': vínculo de dll inconsistente
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(164): warning C4273: 'AsyncTerminate': vínculo de dll inconsistente
   c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(45): note: consulte a definição anterior de 'AsyncTerminate'
+  dllmain.cpp
+  Gerando Código...
+     Criando biblioteca C:\Users\hspov\Documents\Sistemas Operativos\oo\SO-T3-V2\x64\Debug\AsyncFileCopy.lib e objeto C:\Users\hspov\Documents\Sistemas Operativos\oo\SO-T3-V2\x64\Debug\AsyncFileCopy.exp
   AsyncFileCopy.vcxproj -> C:\Users\hspov\Documents\Sistemas Operativos\oo\SO-T3-V2\x64\Debug\AsyncFileCopy.dll
