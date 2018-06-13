@@ -1,1 +1,8 @@
-﻿
+﻿  AsyncFileCopy.cpp
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(108): warning C4273: 'AsyncInit': vínculo de dll inconsistente
+  c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(43): note: consulte a definição anterior de 'AsyncInit'
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(134): warning C4273: 'CopyFileAsynch': vínculo de dll inconsistente
+  c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(44): note: consulte a definição anterior de 'CopyFileAsynch'
+c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.cpp(191): warning C4273: 'AsyncTerminate': vínculo de dll inconsistente
+  c:\users\hspov\documents\sistemas operativos\oo\so-t3-v2\asyncfilecopy\asyncfilecopy.h(45): note: consulte a definição anterior de 'AsyncTerminate'
+  AsyncFileCopy.vcxproj -> C:\Users\hspov\Documents\Sistemas Operativos\oo\SO-T3-V2\x64\Debug\AsyncFileCopy.dll
