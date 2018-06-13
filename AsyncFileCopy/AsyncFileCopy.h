@@ -22,7 +22,11 @@
 #define BUFFER_SIZE 2048
 
 
-typedef VOID(*AsyncCallback)(LPVOID userCtx, DWORD status,	UINT64 transferedBytes);
+typedef VOID(*AsyncCallback)(
+	LPVOID userCtx,	
+	DWORD status,	
+	UINT64 transferedBytes);
+
 
 typedef struct AsyncContext {
 	OVERLAPPED overlapped;
